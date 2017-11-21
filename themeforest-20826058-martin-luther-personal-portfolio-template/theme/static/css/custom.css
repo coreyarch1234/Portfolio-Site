@@ -1,0 +1,109 @@
+.resume-row {
+    display: flex;
+    align-items: center;
+}
+.resume-row-left {
+    width: 10%;
+    min-width: 100px;
+}
+.resume-row-right {
+    width: 90%;
+    padding-left: 20px;
+}
+.resume-row img {
+    width: 100px;
+}
+.resume-row p {
+    /*background-color: blue;*/
+}
+.personal-pic {
+    box-shadow: none;
+}
+.m-btn:hover {
+    border-radius: 25px;
+    background-color: black;
+}
+.video {
+    width: 100%;
+    height: 350px;
+    padding: 12px;
+}
+
+.shsat {
+    width: 150px;
+    height: 200px;
+    left: 50%;
+}
+.portfolio-col {
+    box-shadow: none;
+}
+.portfolio-col:hover {
+    background-color: #efefef;
+}
+.resume-box {
+    box-shadow: none;
+}
+.blog-item {
+    box-shadow: none;
+}
+.project-details {
+    color: #484848;
+}
+.project-details h3{
+    font-weight: 700;
+}
+.project-details h4{
+    font-style:italic;
+    font-size:15px;
+}
+.project-details label{
+    font-weight: 500;
+    background-color: #ddd;
+    padding: 2px 15px;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 11px;
+}
+.home-banner {
+    background-color: #000;
+}
+.social-link li a {
+    background-color: #fff;
+    color: #000;
+    width: 50px;
+    height: 50px;
+}
+.social-link li a i{
+    margin-top: 10px;
+}
+.color-link li a{
+    background-color: #000;
+    color: #fff;
+    width: 35px;
+    height: 35px;
+}
+.color-link li a i{
+    margin-top: 0px;
+}
+.link-white li a{
+    background-color: #fff;
+    color: #000;
+}
+/*.portfolio-img {
+    overflow-x: hidden;
+    clear
+}*/
+/*.portfolio-col h4 {
+	margin: 0;
+	padding: 0 0 10px;
+	font-size: 20px;
+	font-weight: 600;
+}
+.portfolio-col label {
+	margin: 0;
+	padding: 0 0 15px;
+	font-size: 12px;
+	font-weight: 300;
+	padding: 5px 20px;
+	border-radius: 30px;
+}*/

@@ -1,9 +1,9 @@
 ::selection {
-  background-color: #f34236;
+  background-color: #ff0080;
   color: #fff;
 }
 ::-moz-selection {
-  background-color: #f34236;
+  background-color: #ff0080;
   color: #fff;
 }
 
@@ -14,20 +14,20 @@
 .call-to-action,
 .social-link li a:hover,
 .navbar-toggle{
-	background-color: #f34236;
+	background-color: #ff0080;
 }
 
 .section-title h2 span,
 .fixed-header .logo,
-.fixed-header .logo a, 
+.fixed-header .logo a,
 .header .navbar-nav > li > a:hover,
 .portfolio-box .filter button.mixitup-control-active,
 .portfolio-box .filter button:hover,
 .resume-box h4 {
-	color:  #f34236;
+	color:  #ff0080;
 }
 
 .contact-us .form-control:focus,
 .contact-us textarea.form-control:focus{
-	border-color: #f34236;
+	border-color: #ff0080;
 }

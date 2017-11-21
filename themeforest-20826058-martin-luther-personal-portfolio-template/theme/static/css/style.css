@@ -13,7 +13,7 @@
   /* General */
 /*-------------------------------------------------------*/
 html,body {
-	font-family: 'Poppins', sans-serif;	
+	font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -140,7 +140,7 @@ button:focus{
 /*-------------------------------------------------------*/
   /* social link */
 /*-------------------------------------------------------*/
-.social-link ul { 
+.social-link ul {
 	margin: 0;
 	padding: 0;
 }
@@ -225,11 +225,11 @@ button:focus{
 	color: #fff;
 	text-decoration: none;
 }
-.header .navbar { 
+.header .navbar {
 	margin: 0;
 	padding: 15px 0;
 	border: none;
-	border-radius: 0;	
+	border-radius: 0;
 }
 .header .navbar-nav > li{
 	padding: 0 5px;
@@ -245,7 +245,7 @@ button:focus{
     	 -o-transition: all .2s ease;
     		transition: all .2s ease;
 }
-.header .navbar-nav > li > a:focus, 
+.header .navbar-nav > li > a:focus,
 .header .navbar-nav > li > a:hover {
 	background: none;
 }
@@ -261,7 +261,7 @@ button:focus{
 	color: #000;
 }
 .fixed-header .navbar-nav > li > a {
-	color: #000;	
+	color: #000;
 }
 .fixed-header .navbar-nav > li.current > a,
 .fixed-header .navbar-nav > li.current > a:hover{
@@ -304,7 +304,7 @@ button:focus{
 	.navbar-toggle {
 		margin: 7px 15px 3px 0;
 		border-radius: 0;
-	}	
+	}
 	.navbar-toggle .icon-bar{
 		background: #fff;
 	}
@@ -322,6 +322,7 @@ button:focus{
 }
 .home-banner {
 	position: relative;
+	background-color: #36393B;
 }
 .home-banner .welcome-text {
 	padding: 0;
@@ -375,8 +376,8 @@ button:focus{
 	.home-banner .welcome-text h2 {
 		padding: 10px 0 15px;
 		font-size: 40px;
-		line-height: 40px;	
-	}	
+		line-height: 40px;
+	}
 	.home-banner .welcome-text p{
 		padding: 0 0 15px;
 		font-size: 14px;
@@ -739,10 +740,8 @@ button:focus{
 .footer .sub-footer {
 	background: #171717;
 	color: #999;
-	padding: 25px 0; 
+	padding: 25px 0;
 }
 .footer .sub-footer p {
 	margin: 0;
 }
-
-
